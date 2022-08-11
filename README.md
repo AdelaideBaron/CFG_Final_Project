@@ -1,5 +1,11 @@
 # CFG_Final_Project
--create an awesome readme-
+
+Using online datasets and APIs, we have used a combination of analytical libraries and python to analyse the gender split from secondary school through to graduate outcomes, with a focus on educational influences. We have worked from the point of view of consulting for a client who wishes to address the following: 
+1. What outcomes are being achieved by females at secondary and higher education levels, and how does this differ from outcomes for males? 
+2. Is there an increase in the number of females studying computer science-based subjects and in females entering the technology industry? 
+3. Is there a link between geographical location and the educational outcomes for females? 
+
+You can find our report in the main folder titled report.doc and report.pdf. Each of the following folders contains a jupyter notebook, and any relevant resources for that specific analysis. 
 
 <details>
 <summary>TBC Claire</summary>
@@ -59,18 +65,23 @@ For both the [UniDB](https://unidbapi.com/API) and the [Open Weather Geocoding](
   All API work has been completed inside one notebook: uniDB_demographics.ipynb. 
   
   It is split into the following sections: 
-  - 
-  - 
-  - 
+  - API Keys 
+  - Imports - of analytical libraries 
+  - Degree demographic analysis - the ratio of males to females by course
+  - University demographic analysis - percentage of males to females by university 
+  - Geocoding - mapping results using the [OW API]((https://openweathermap.org/api/geocoding-api))
   
-  Each section has functions defined at the top 
-  
-  
-  
-  
-  
+  Each section has functions defined at the top, and within the body. 
+ 
   
 </details>
 
+## Contributors
+[Adelaide Baron](https://github.com/AdelaideBaron?tab=repositories) | 
+[Sian Steen](https://github.com/srsteen) | 
+[Claire Evans](https://github.com/Aereyelle) 
 
+<br> 
+
+The final project of our [CFGdegree (data)](https://codefirstgirls.com/courses/cfgdegree/). 
 
