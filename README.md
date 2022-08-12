@@ -28,6 +28,7 @@ A Brief explanation of the datasets used:
 |National level destinations dat-Table 1.csv| National destination dataset from gov.uk. Shows academic years 2010/11 to 2019/20. Unfiltered raw data. Not used in final project.|
 
 
+
 </details>
 
 <details>
@@ -71,7 +72,6 @@ Each notebook details the process undertaken for data cleaning and analysis.
 <summary>API's & Mapping</summary>
 
 _By Adelaide Baron_
-  
   
   ## API Keys
 For both the [UniDB](https://unidbapi.com/API) and the [Open Weather Geocoding](https://openweathermap.org/api/geocoding-api) API you will need to aquire your own keys. 
