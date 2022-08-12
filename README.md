@@ -12,16 +12,20 @@ You can find our report in the main folder titled report.doc and report.pdf. Eac
 
 _By Claire Evans_ 
 
+KS5 national destination datasets were taken from information provided by the Department for Education on the gov.uk education pages. https://explore-education-statistics.service.gov.uk.
+The notebook contains the processes used for data cleaning and manipulation.
+
+
 A Brief explanation of the datasets used: 
 
  | HE Enrolment Jupyter Notebooks   | About |
 | ----------- | ----------- |
-|DESTINATIONBYGENDER.csv | Headline data exported from SQL|
-| DESTINATIONGENDER2|Headline data direct from gov.uk |
+|DESTINATIONBYGENDER.csv | Headline data exported from SQL for academic year 2019/20|
+| DESTINATIONGENDER2|Headline data direct from gov.uk for academic year 2017/18 |
 |GENDER.sql|SQL table used to extract DESTINATIONBYGENDER.csv|
 |KS5_Leavers.ipynb|Jupyter notebook used for data manipulation|
-|Ks5Leaver|National destination dataset from gov.uk, filtered to show females only and with non-essential columns removed |
-|National level destinations dat-Table 1.csv| National destination dataset from gov.uk|
+|Ks5Leaver|National destination dataset from gov.uk, filtered to show females only and with non-essential columns removed. Shows academic years 2010/11 to 2019/20. Not used in final project.  |
+|National level destinations dat-Table 1.csv| National destination dataset from gov.uk. Shows academic years 2010/11 to 2019/20. Unfiltered raw data. Not used in final project.|
 
 
 </details>
