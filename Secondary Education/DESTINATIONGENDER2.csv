@@ -1,0 +1,3 @@
+location,location_code,geographic_level,time_period,data_type,institution_type,cohort_level,characteristic,all_unknown,fe,all_notsust,cohort,other_edu,appren,education,overall,all_work,he
+England,E92000001,country,201718,Percentage,Total,Total,Female,4.3,9.1,12.0,264644,2.4,7.8,50.3,83.8,25.7,38.9
+England,E92000001,country,201718,Percentage,Total,Total,Male,6.7,10.1,14.7,269684,2.3,11.3,43.2,78.7,24.2,30.8
