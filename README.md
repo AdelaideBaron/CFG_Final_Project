@@ -8,14 +8,28 @@ Using online datasets and APIs, we have used a combination of analytical librari
 You can find our report in the main folder titled report.doc and report.pdf. Each of the following folders contains a jupyter notebook, and any relevant resources for that specific analysis. 
 
 <details>
-<summary>TBC Claire</summary>
-```
-CODE!
-```
+<summary>Secondary Education</summary>
+
+_By Claire Evans_ 
+
+A Brief explanation of the datasets used: 
+
+ | HE Enrolment Jupyter Notebooks   | About |
+| ----------- | ----------- |
+|DESTINATIONBYGENDER.csv | Headline data exported from SQL|
+| DESTINATIONGENDER2|Headline data direct from gov.uk |
+|GENDER.sql|SQL table used to extract DESTINATIONBYGENDER.csv|
+|KS5_Leavers.ipynb|Jupyter notebook used for data manipulation|
+|Ks5Leaver|National destination dataset from gov.uk, filtered to show females only and with non-essential columns removed |
+|National level destinations dat-Table 1.csv| National destination dataset from gov.uk|
+
+
 </details>
 
 <details>
 <summary>Higher Education Data Files and Instructions </summary>
+
+_By Sian Steen_
   
   The Higher Education data used in the analysis for this project is from the Higher Education Statistics Agency (HESA) website [Data and analysis | HESA](https://www.hesa.ac.uk/data-and-analysis). Data from the Students and Graduates open data sets have been used. Each notebook references the tables download for analysis.
 Each notebook details the process undertaken for data cleaning and analysis.
@@ -51,6 +65,8 @@ Each notebook details the process undertaken for data cleaning and analysis.
 
 <details>
 <summary>API's & Mapping</summary>
+
+_By Adelaide Baron_
   
   
   ## API Keys
